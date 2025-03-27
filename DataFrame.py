@@ -479,6 +479,58 @@ def createDfAllIssuesByProject(projectKey):
     # print('allIssues.xlsx creado correctamente')
     return df, set(setSprints)
 
+def createDfAllIssuesTypesByProject(projectKey):
+    print(">>>>>>>>> projectKey " + projectKey)
+    listRows = []
+    sprits = []
+    setSprints = []
+    fields = getCustomFields()
+    allStartAt = getStartAt(
+        ConnectJira.getAllIssuesTypesByProject(projectKey, 0))
+    print(">>>>>>>>> allStartAt " + allStartAt)
+   
+    for start in allStartAt:
+        response_all_issues = ConnectJira.getAllIssuesTypesByProject(
+            projectKey, start)
+        if len(response_all_issues['issues']) > 0:
+            for issue in response_all_issues['issues']:
+                row = {}
+                row['Key'] = issue['key']
+                row['Id_Issue'] = issue['id']
+                row['Parent_Id_Issue']= issue['fields']['parent']['id'] if issue['fields']['issuetype']['name'] == "Sub-task" else " "
+                row['Summary'] = issue['fields']['summary']
+                row['Type'] = issue['fields']['issuetype']['name']
+                row['Status'] = issue['fields']['status']['name']
+               
+                if issue['fields'][fields['Sprint']] != None:
+ 
+                    lenSprint = len(issue['fields'][fields['Sprint']])
+                    if lenSprint == 1:
+                        sprits.append(
+                            issue['fields'][fields['Sprint']][0]['name'])
+                        setSprints.append(
+                            issue['fields'][fields['Sprint']][0]['name'])
+                    else:
+                        for sprint in sorted(issue['fields'][fields['Sprint']],
+                                             key=lambda sprint: sprint['startDate']):
+                            sprits.append(sprint['name'])
+                            setSprints.append(sprint['name'])
+                    row['Sprint_Name'] = ",".join(sprits)
+                    sprits = []
+                else:
+                    row['Sprint_Name'] = ""
+                if fields['Story_Points'] in issue['fields'].keys():
+                    row['Story_Points'] = issue['fields'][fields['Story_Points']]
+                else:
+                    row['Story_Points'] = 0
+                row['Time_Original_Estimate']=issue['fields'].get('timeoriginalestimate', 0) / 3600 if issue['fields'].get('timeoriginalestimate') else 0
+                row['Time_Spent'] = issue['fields'].get('timespent', 0) / 3600 if issue['fields'].get('timespent') else 0
+               
+                listRows.append(row)
+    df = pd.DataFrame(listRows)
+    df.to_csv("allIssueTypesAllSprints.csv", index=False)
+    print('allIssueTypesAllSprints.csv creado correctamente')
+    return df
 
 def createDfSprintsUSP(dfAllIssues, setSprints, listSprintsStates):
     datos = []

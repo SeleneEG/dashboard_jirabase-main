@@ -39,6 +39,16 @@ def getAllIssuesByProject(projectKey, type, start):
     response = connecJiraPython(url, method)
     return response
 
+### Recupera Storys, Task, Subtasks y Defects de un proyecto
+def getAllIssuesTypesByProject(projectKey, start):
+    url = personalDomain+"rest/api/latest/search?jql=project=" + \
+        projectKey+"%20and%20issuetype%20in%20(Story,Task,Sub-task,Defect)&maxResults=100&startAt=" + \
+        str(start)
+    method = 'GET'
+    response = connecJiraPython(url, method)
+    print(">>>>>>>>> response")
+    print(response)
+    return response
 
 def getBoardFromProject(projectKey):
     url = personalDomain+"rest/agile/1.0/board?projectKeyOrId="+projectKey
