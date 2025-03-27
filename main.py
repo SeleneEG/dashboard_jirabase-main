@@ -29,7 +29,7 @@ def craeteSideBar():
             createMainpage(df_sprint, projectKey, board,
                            sprint, listSprintsStates)
         # else:
-            # st.header("No hay Historias de Usuario en el proyecto")
+            # st.header("No hay Historias de Usuario en el proyecto")  
 ###############################################################################################################
 
 
@@ -110,6 +110,18 @@ def createMainpage(df_sprint, projectKey, boardName, sprint, listSprintsStates):
     else:
         st.text(
             "No hay Historias de Usuario en el proyecto para mostrar las gráficas correspondientes")
+    ############################################################
+
+    st.info("Información de todos los Issues en el proyecto")    
+    allIssueTypesAllSprints=DataFrame.createDfAllIssuesTypesByProject(projectKey)
+    csv_to_download = allIssueTypesAllSprints.to_csv().encode('utf-8')
+    st.download_button(
+        label="Download data as CSV",
+        data=csv_to_download,
+        file_name='AllIssueTypes.csv',
+        mime='text/csv',
+    )
+    st.write(allIssueTypesAllSprints)
 
     ############################################################
     st.info("Información de SubTasks de Historias/Tareas asignadas a los Sprints")
@@ -129,11 +141,11 @@ def createMainpage(df_sprint, projectKey, boardName, sprint, listSprintsStates):
     with col1:
         color1 = st.color_picker('Historias', '#76D7C4', key=1)
     with col2:
-        color2 = st.color_picker('Subtasks de Historias', '#A1F9C3', key=1)
+        color2 = st.color_picker('Subtasks de Historias', '#A1F9C3', key=2)
     with col3:
-        color3 = st.color_picker('Tareas', '#7AA6EA', key=1)
+        color3 = st.color_picker('Tareas', '#7AA6EA', key=3)
     with col4:
-        color4 = st.color_picker('Subtasks de Tareas', '#85C1E9', key=2)
+        color4 = st.color_picker('Subtasks de Tareas', '#85C1E9', key=4)
 
     df_stories, columnsFormat_stories = DataFrame.createInfoBySprint(
         dataRows, dataSprints)
