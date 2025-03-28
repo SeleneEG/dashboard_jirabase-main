@@ -480,14 +480,12 @@ def createDfAllIssuesByProject(projectKey):
     return df, set(setSprints)
 
 def createDfAllIssuesTypesByProject(projectKey):
-    print(">>>>>>>>> projectKey " + projectKey)
     listRows = []
     sprits = []
     setSprints = []
     fields = getCustomFields()
     allStartAt = getStartAt(
         ConnectJira.getAllIssuesTypesByProject(projectKey, 0))
-    print(">>>>>>>>> allStartAt " + allStartAt)
    
     for start in allStartAt:
         response_all_issues = ConnectJira.getAllIssuesTypesByProject(
