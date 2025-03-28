@@ -1,212 +1,122 @@
 Key,Id_Issue,Parent_Id_Issue,Summary,Type,Status,Sprint_Name,Story_Points,Time_Original_Estimate,Time_Spent
-FLA-249,10809, ,"DEVELOPMENTBUG - Muestra error la liga de PDF de contenido de los caias SLW, TIJ y HMO",Bug,Rejected,"FLA Sprint 2,FLA Sprint 3",0.0,0.0,6.0
-FLA-248,10806,10778,Presentacion DEMO,Sub-task,Done,FLA Sprint 2,0.0,0.05,0.0
-FLA-247,10805,10778,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-246,10804,10778,Ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,0.016666666666666666,0.0
-FLA-245,10803,10778,Documentación de ejecución,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-244,10802,10778,Ejecución de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.08333333333333333,0.0
-FLA-243,10801,10778,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.016666666666666666,0.0
-FLA-242,10800,10778,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.05,0.0
-FLA-241,10799,10778,Análisis del requerimiento,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-240,10798,10778,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 2,0.0,0.016666666666666666,0.0
-FLA-239,10797,10778,Deploy DEV,Sub-task,Done,FLA Sprint 2,0.0,0.016666666666666666,0.0
-FLA-238,10796,10778,Peer review Código,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-237,10795,10778,Pruebas Unitarias,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-236,10794,10778,Construcción,Sub-task,Done,FLA Sprint 2,0.0,0.11666666666666667,0.0
-FLA-235,10793,10778,Revisión de Entregable,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-234,10792,10777,Presentacion DEMO,Sub-task,Done,FLA Sprint 2,0.0,0.06666666666666667,0.0
-FLA-233,10791,10777,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,0.05,0.0
-FLA-232,10790,10777,Ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.0
-FLA-231,10789,10777,Documentación de ejecución,Sub-task,Done,FLA Sprint 2,0.0,0.05,0.0
-FLA-230,10788,10777,Ejecución de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.13333333333333333,0.0
-FLA-229,10787,10777,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,0.5
-FLA-228,10786,10777,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,0.08333333333333333,0.0
-FLA-227,10785,10777,Análisis del requerimiento,Sub-task,Done,FLA Sprint 2,0.0,0.05,0.0
-FLA-226,10784,10777,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,1.0
-FLA-225,10783,10777,Deploy DEV,Sub-task,Done,FLA Sprint 2,0.0,0.03333333333333333,1.0
-FLA-224,10782,10777,Peer review Código,Sub-task,Done,FLA Sprint 2,0.0,0.05,2.0
-FLA-223,10781,10777,Pruebas Unitarias,Sub-task,Done,FLA Sprint 2,0.0,0.05,4.0
-FLA-222,10780,10777,Construcción,Sub-task,Done,FLA Sprint 2,0.0,0.18333333333333332,8.0
-FLA-221,10779,10777,Revisión de Entregable,Sub-task,Done,FLA Sprint 2,0.0,0.05,1.0
-FLA-220,10778, ,HU-Fee Liberación-01.07 Generar archivo para interfaz SAP,Story,Done,FLA Sprint 2,5.0,0.0,0.0
-FLA-219,10777, ,HU-Fee Liberación-01.06.02 Generar XML IAS Global con la nueva clave para el cargo de maniobras,Story,Done,FLA Sprint 2,8.0,0.0,0.0
-FLA-216,10774, ,DEVELOPMENTBUG - No se ve reflejado el nuevo impuesto con guía de MID,Bug,Done,FLA Sprint 2,0.0,0.0,3.65
-FLA-215,10768, ,Minuto a minuto creación,Task,Done,FLA Sprint 2,,0.0,8.0
-FLA-214,10767, ,Manual de Usuario,Task,Done,FLA Sprint 2,,0.0,8.0
-FLA-192,10740,10690,Presentacion DEMO,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-191,10739,10690,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,2.0,0.0
-FLA-190,10738,10690,Ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,1.0,0.0
-FLA-189,10737,10690,Documentación de ejecución,Sub-task,Done,FLA Sprint 2,0.0,2.0,2.0
-FLA-188,10736,10690,Ejecución de pruebas,Sub-task,Done,FLA Sprint 2,0.0,5.0,4.5
-FLA-187,10735,10690,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,1.0,0.0
-FLA-186,10734,10690,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,3.0,3.0
-FLA-185,10733,10690,Análisis del requerimiento,Sub-task,Done,FLA Sprint 2,0.0,2.0,1.0166666666666666
-FLA-184,10732,10690,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 2,0.0,1.0,1.0
-FLA-183,10731,10690,Deploy DEV,Sub-task,Done,FLA Sprint 2,0.0,1.0,2.0
-FLA-182,10730,10690,Peer review Código,Sub-task,Done,FLA Sprint 2,0.0,2.0,1.0
-FLA-181,10729,10690,Pruebas Unitarias,Sub-task,Done,FLA Sprint 2,0.0,2.0,2.0
-FLA-180,10728,10690,Construcción,Sub-task,Done,FLA Sprint 2,0.0,7.0,6.0
-FLA-179,10727,10690,Revisión de Entregable,Sub-task,Done,FLA Sprint 2,0.0,2.0,1.0
-FLA-178,10726,10689,Presentacion DEMO,Sub-task,Done,FLA Sprint 2,0.0,7.0,0.0
-FLA-177,10725,10689,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-176,10724,10689,Ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-175,10723,10689,Documentación de ejecución,Sub-task,Done,FLA Sprint 2,0.0,4.0,4.0
-FLA-174,10722,10689,Ejecución de pruebas,Sub-task,Done,FLA Sprint 2,0.0,13.0,2.0
-FLA-173,10721,10689,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-172,10720,10689,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,9.0,4.0
-FLA-171,10719,10689,Análisis del requerimiento,Sub-task,Done,FLA Sprint 2,0.0,5.0,2.0
-FLA-170,10718,10689,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-169,10717,10689,Deploy DEV,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-168,10716,10689,Peer review Código,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-167,10715,10689,Pruebas Unitarias,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-166,10714,10689,Construcción,Sub-task,Done,FLA Sprint 2,0.0,18.0,0.0
-FLA-165,10713,10689,Revisión de Entregable,Sub-task,Done,FLA Sprint 2,0.0,5.0,0.0
-FLA-164,10712,10688,Presentacion DEMO,Sub-task,Done,FLA Sprint 2,0.0,4.0,0.0
-FLA-163,10711,10688,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-162,10710,10688,Ejecución de defectos,Sub-task,Done,FLA Sprint 2,0.0,2.0,0.0
-FLA-161,10709,10688,Documentación de ejecución,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-160,10708,10688,Ejecución de pruebas,Sub-task,Done,FLA Sprint 2,0.0,8.0,0.0
-FLA-159,10707,10688,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,2.0,1.0
-FLA-158,10706,10688,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 2,0.0,5.0,0.0
-FLA-157,10705,10688,Análisis del requerimiento,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-156,10704,10688,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 2,0.0,2.0,1.0
-FLA-155,10703,10688,Deploy DEV,Sub-task,Done,FLA Sprint 2,0.0,2.0,2.0
-FLA-154,10702,10688,Peer review Código,Sub-task,Done,FLA Sprint 2,0.0,3.0,2.0
-FLA-153,10701,10688,Pruebas Unitarias,Sub-task,Done,FLA Sprint 2,0.0,3.0,8.0
-FLA-152,10700,10688,Construcción,Sub-task,Done,FLA Sprint 2,0.0,11.0,8.0
-FLA-151,10699,10688,Revisión de Entregable,Sub-task,Done,FLA Sprint 2,0.0,3.0,2.0
-FLA-150,10698,10687,Obtener el tamaño funcional,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-149,10697,10687,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-148,10696,10687,Presentación de HU's con PO y stakeholders,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-147,10695,10687,"Revisar con los equipos de DEV, QA la solución",Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-146,10694,10687,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-145,10693,10687,Realizar Self Review de Analista,Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-144,10692,10687,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,Done,FLA Sprint 2,0.0,10.0,0.0
-FLA-143,10691,10687,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,Done,FLA Sprint 2,0.0,3.0,0.0
-FLA-142,10690, ,HU-Fee Liberación-01.05 Enviar nuevo cargo a SSP,Story,Done,FLA Sprint 2,5.0,0.0,0.0
-FLA-141,10689, ,HU-Fee Liberación-01.04 Generar recibo REG con el nuevo cargo (PDF),Story,Done,FLA Sprint 2,13.0,0.0,0.0
-FLA-140,10688, ,HU-Fee Liberación-01.06 Generar XML con nuevo cargo,Story,Done,FLA Sprint 2,8.0,0.0,0.0
-FLA-139,10687, ,[REF]HU-Fee Liberación-01.06.02 Generar XML IAS Global con la nueva clave para el cargo de maniobras,Task,Done,FLA Sprint 2,,0.0,0.0
-FLA-134,10674, ,DEVELOPMENTBUG - Permite guardar montos en 0 en la TARIFA ACTUAL ,Bug,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-133,10633, ,DEVELOPMENTBUG - El mensaje de alerta se muestra duplicado,Bug,Rejected,"FLA Sprint 1,FLA Sprint 2,FLA Sprint 3",0.0,0.0,0.0
-FLA-132,10578, ,DEVELOPMENTBUG - Se muestra mensaje de alerta en el campo incorrecto ,Bug,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-131,10547, ,Medición HU-Fee Liberación-01.03 Proceso de incluir el nuevo cargo a los recibos,Task,Done,FLA Sprint 1,,0.0,1.0
-FLA-130,10546, ,Medición HU-Fee Liberación-01.02 Actualizar configuración de la tarifa de liberación,Task,Done,FLA Sprint 1,,0.0,1.0
-FLA-129,10539, ,Medición HU-Fee Liberación-01.01 Registrar configuración de la tarifa de liberación,Task,Done,FLA Sprint 1,,0.0,1.0
-FLA-128,10538,10432,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,2.0
-FLA-127,10537,10432,Análisis del requerimiento,Sub-task,Done,FLA Sprint 1,0.0,0.0,2.0
-FLA-126,10536,10432,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 1,0.0,0.0,2.0
-FLA-125,10535,10432,Deploy DEV,Sub-task,Done,FLA Sprint 1,0.0,0.0,2.0
-FLA-124,10534,10432,Peer review Código,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-123,10533,10432,Pruebas Unitarias,Sub-task,Done,FLA Sprint 1,0.0,0.0,6.0
-FLA-122,10532,10432,Construcción,Sub-task,Done,FLA Sprint 1,0.0,0.0,14.0
-FLA-121,10531,10432,Revisión de Entregable,Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-120,10530,10431,Presentacion DEMO,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-119,10529,10431,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-118,10528,10431,Ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-117,10527,10431,Documentación de ejecución,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-116,10526,10431,Ejecución de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-115,10525,10428,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,0.0,0.0
-FLA-114,10524,10431,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-113,10523,10428,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,0.0,0.0
-FLA-112,10522,10431,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-111,10521,10427,Obtener el tamaño funcional,Sub-task,To Do,,0.0,0.0,0.0
-FLA-110,10519,10427,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,0.0,0.0
-FLA-109,10520,10431,Análisis del requerimiento,Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-108,10518,10427,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,0.0,0.0
-FLA-107,10517,10431,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-106,10516,10427,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,0.0,0.0
-FLA-105,10515,10431,Deploy DEV,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-104,10514,10427,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,0.0,0.0
-FLA-103,10513,10431,Peer review Código,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-102,10512,10427,Realizar Self Review de Analista,Sub-task,To Do,,0.0,0.0,0.0
-FLA-101,10511,10427,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,0.0,0.0
-FLA-100,10510,10431,Pruebas Unitarias,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-99,10509,10427,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,0.0,0.0
-FLA-98,10508,10431,Construcción,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-97,10507,10426,Obtener el tamaño funcional,Sub-task,To Do,,0.0,0.0,0.0
-FLA-96,10506,10431,Revisión de Entregable,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-95,10505,10426,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,0.0,0.0
-FLA-94,10504,10430,Presentacion DEMO,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-93,10503,10426,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,0.0,0.0
-FLA-92,10502,10426,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,0.0,0.0
-FLA-91,10501,10430,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-90,10500,10426,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,0.0,0.0
-FLA-89,10498,10430,Ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-88,10499,10426,Realizar Self Review de Analista,Sub-task,To Do,,0.0,0.0,0.0
-FLA-87,10497,10426,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,0.0,0.0
-FLA-86,10496,10430,Documentación de ejecución,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-85,10495,10426,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,0.0,0.0
-FLA-84,10494,10425,Obtener el tamaño funcional,Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-83,10493,10430,Ejecución de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-82,10492,10425,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-81,10491,10430,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.5833333333333334
-FLA-80,10490,10425,Presentación de HU's con PO y stakeholders,Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-79,10488,10430,Diseño de matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-78,10489,10425,"Revisar con los equipos de DEV, QA la solución",Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-77,10487,10425,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-76,10486,10430,Análisis del requerimiento,Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-75,10485,10425,Realizar Self Review de Analista,Sub-task,Done,FLA Sprint 2,0.0,0.0,0.0
-FLA-74,10484,10430,Actualización de documento de Especificación Técnica ,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-73,10483,10425,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,Done,FLA Sprint 2,0.0,0.0,2.0
-FLA-72,10482,10425,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,Done,FLA Sprint 2,0.0,0.0,13.0
-FLA-71,10481,10430,Deploy DEV,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-70,10480,10424,Obtener el tamaño funcional,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-69,10479,10430,Peer review Código,Sub-task,Done,FLA Sprint 1,0.0,0.0,6.0
-FLA-68,10478,10424,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-67,10477,10430,Pruebas Unitarias,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-66,10476,10424,Presentación de HU's con PO y stakeholders,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-65,10475,10424,"Revisar con los equipos de DEV, QA la solución",Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-64,10474,10430,Construcción,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-63,10473,10424,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-62,10472,10430,Revisión de Entregable,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-61,10471,10424,Realizar Self Review de Analista,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-60,10470,10429,Obtener el tamaño funcional,Sub-task,To Do,,0.0,0.0,0.0
-FLA-59,10469,10424,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,10.0
-FLA-58,10468,10429,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,0.0,0.0
-FLA-57,10467,10424,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,16.5
-FLA-56,10466,10423,Obtener el tamaño funcional,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-55,10465,10429,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,0.0,0.0
-FLA-54,10464,10423,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-53,10463,10429,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,0.0,0.0
-FLA-52,10462,10423,Presentación de HU's con PO y stakeholders,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-51,10461,10423,"Revisar con los equipos de DEV, QA la solución",Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-50,10460,10429,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,0.0,0.0
-FLA-49,10459,10423,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,1.0
-FLA-48,10458,10429,Realizar Self Review de Analista,Sub-task,To Do,,0.0,0.0,0.0
-FLA-47,10457,10423,Realizar Self Review de Analista,Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-46,10456,10429,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,0.0,0.0
-FLA-45,10455,10423,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-44,10454,10423,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,Done,"FLA Sprint 1,FLA Sprint 2",0.0,0.0,0.0
-FLA-43,10453,10429,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,0.0,0.0
-FLA-42,10452,10422,Obtener el tamaño funcional,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.5
-FLA-41,10451,10432,Presentacion DEMO,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-40,10450,10428,Obtener el tamaño funcional,Sub-task,To Do,,0.0,0.0,0.0
-FLA-39,10449,10422,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.5
-FLA-38,10448,10432,Documentación de ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-37,10447,10428,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,0.0,0.0
-FLA-36,10446,10422,Presentación de HU's con PO y stakeholders,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.5
-FLA-35,10445,10432,Ejecución de defectos,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-34,10444,10422,"Revisar con los equipos de DEV, QA la solución",Sub-task,Done,FLA Sprint 1,0.0,0.0,4.0
-FLA-33,10443,10428,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,0.0,0.0
-FLA-32,10442,10422,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-31,10441,10432,Documentación de ejecución,Sub-task,Done,FLA Sprint 1,0.0,0.0,2.25
-FLA-30,10440,10428,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,0.0,0.0
-FLA-29,10439,10422,Realizar Self Review de Analista,Sub-task,Done,FLA Sprint 1,0.0,0.0,1.0
-FLA-28,10438,10432,Ejecución de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,3.0
-FLA-27,10437,10428,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,0.0,0.0
-FLA-26,10436,10422,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,Done,FLA Sprint 1,0.0,0.0,14.0
-FLA-25,10435,10432,Peer Review matriz de pruebas,Sub-task,Done,FLA Sprint 1,0.0,0.0,0.0
-FLA-24,10434,10428,Realizar Self Review de Analista,Sub-task,To Do,,0.0,0.0,0.0
-FLA-23,10433,10422,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,Done,FLA Sprint 1,0.0,0.0,16.0
-FLA-22,10432, ,HU-Fee Liberación-01.03 Proceso de incluir el nuevo cargo a los recibos,Story,Done,FLA Sprint 1,13.0,0.0,0.0
-FLA-21,10431, ,HU-Fee Liberación-01.02 Actualizar configuración de la tarifa de liberación,Story,Done,FLA Sprint 1,5.0,0.0,0.0
-FLA-20,10430, ,HU-Fee Liberación-01.01 Registrar configuración de la tarifa de liberación,Story,Done,FLA Sprint 1,13.0,0.0,0.0
-FLA-19,10429, ,[REF]HU-Fee Liberación-01.10 Gestionar nuevo concepto en excepciones de tarifas.,Task,To Do,,,0.0,0.0
-FLA-18,10428, ,[REF] HU-Fee Liberación-01.09 Generar nota de crédito con el nuevo cargo,Task,To Do,,,0.0,0.0
-FLA-17,10427, ,[REF] HU-Fee Liberación-01.08 Generar reporte de conciliación contable con el nuevo cargo,Task,To Do,,,0.0,0.0
-FLA-16,10426, ,[REF] HU-Fee Liberación-01.07 Recalcular en una reemisión,Task,To Do,,,0.0,0.0
-FLA-15,10425, ,[REF] Nota tecnica 2.4 Interfaz SAP(Configuración de tablas ),Task,Done,FLA Sprint 2,,0.0,0.0
-FLA-14,10424, ,[REF] HU-Fee Liberación-01.05 Enviar nuevo cargo a SSP,Task,Done,"FLA Sprint 1,FLA Sprint 2",,0.0,0.0
-FLA-13,10423, ,[REF] HU-Fee Liberación-01.04 Generar recibo REG con el nuevo cargo (PDF),Task,Done,"FLA Sprint 1,FLA Sprint 2",,0.0,0.0
-FLA-12,10422, ,[REF]HU-Fee Liberación-01.06 Generar XML con nuevo cargo,Task,Done,FLA Sprint 1,,0.0,0.0
+TD-121,10157,10051,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-120,10156,10051,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-119,10155,10051,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-118,10154,10051,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-117,10153,10051,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-116,10152,10051,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-115,10151,10051,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-114,10150,10051,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-113,10149,10051,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-112,10148,10051,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-111,10147,10051,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-110,10146,10051,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-109,10145,10051,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-108,10144,10051,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-107,10143,10050,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-106,10142,10050,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-105,10141,10050,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-104,10140,10050,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-103,10139,10050,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-102,10138,10050,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-101,10137,10050,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-100,10136,10050,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-99,10135,10050,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-98,10134,10050,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-97,10133,10050,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-96,10132,10050,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-95,10131,10050,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-94,10130,10050,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-93,10129,10049,Presentacion DEMO,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-92,10128,10049,Documentación de ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-91,10127,10049,Ejecución de defectos,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-90,10126,10049,Documentación de ejecución,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-89,10125,10049,Ejecución de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-88,10124,10049,Peer Review matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-87,10123,10049,Diseño de matriz de pruebas,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-86,10122,10049,Análisis del requerimiento,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-85,10121,10049,Actualización de documento de Especificación Técnica ,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-84,10120,10049,Deploy DEV,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-83,10119,10049,Peer review Código,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-82,10118,10049,Pruebas Unitarias,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-81,10117,10049,Construcción,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-80,10116,10049,Revisión de Entregable,Sub-task,To Do,TD Sprint 2,0.0,1.0,0.0
+TD-79,10115,10048,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-78,10114,10048,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-77,10113,10048,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-76,10112,10048,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-75,10111,10048,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-74,10110,10048,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-73,10109,10048,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-72,10108,10048,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-71,10107,10047,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-70,10106,10047,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-69,10105,10047,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-68,10104,10047,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-67,10103,10047,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-66,10102,10047,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-65,10101,10047,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-64,10100,10047,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-63,10099,10046,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-62,10098,10046,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-61,10097,10046,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-60,10096,10046,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-59,10095,10046,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-58,10094,10046,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-57,10093,10046,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-56,10092,10046,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-55,10091,10045,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-54,10090,10045,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-53,10089,10045,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-52,10088,10045,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-51,10087,10045,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-50,10086,10045,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-49,10085,10045,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-48,10084,10045,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-47,10083,10044,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-46,10082,10044,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-45,10081,10044,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-44,10080,10044,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-43,10079,10044,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-42,10078,10044,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-41,10077,10044,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-40,10076,10044,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-39,10075,10043,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-38,10074,10043,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-37,10073,10043,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-36,10072,10043,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-35,10071,10043,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-34,10070,10043,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-33,10069,10043,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-32,10068,10043,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-31,10067,10042,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-30,10066,10042,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-29,10065,10042,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-28,10064,10042,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-27,10063,10042,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-26,10062,10042,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-25,10061,10042,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-24,10060,10042,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-23,10059,10041,Obtener el tamaño funcional,Sub-task,To Do,,0.0,1.0,0.0
+TD-22,10058,10041,Obtener VoBo del Cliente y respaldar en sharepoint,Sub-task,To Do,,0.0,1.0,0.0
+TD-21,10057,10041,Presentación de HU's con PO y stakeholders,Sub-task,To Do,,0.0,1.0,0.0
+TD-20,10056,10041,"Revisar con los equipos de DEV, QA la solución",Sub-task,To Do,,0.0,1.0,0.0
+TD-19,10055,10041,Solicitar y atender Peer Review de Líder Funcional ,Sub-task,To Do,,0.0,1.0,0.0
+TD-18,10054,10041,Realizar Self Review de Analista,Sub-task,To Do,,0.0,1.0,0.0
+TD-17,10053,10041,Obtener y documentar el To Be (Sesiones con el cliente para establecer la solución ),Sub-task,To Do,,0.0,1.0,0.0
+TD-16,10052,10041,Entender Requerimientos del cliente (Sesiones de explicación de DHL),Sub-task,To Do,,0.0,1.0,0.0
+TD-15,10051, ,HU-Fee Liberación-01.03 ,Story,To Do,TD Sprint 2,13.0,0.0,0.0
+TD-14,10050, ,HU-Fee Liberación-01.02 ,Story,To Do,TD Sprint 2,5.0,0.0,0.0
+TD-13,10049, ,HU-Fee Liberación-01.01 ,Story,To Do,TD Sprint 2,13.0,0.0,0.0
+TD-12,10048, ,[REF]HU-Fee Liberación-01.10 ,Task,To Do,,,0.0,0.0
+TD-11,10047, ,[REF] HU-Fee Liberación-01.09,Task,To Do,,,0.0,0.0
+TD-10,10046, ,[REF] HU-Fee Liberación-01.08 ,Task,To Do,,,0.0,0.0
+TD-9,10045, ,[REF] HU-Fee Liberación-01.07 ,Task,To Do,,,0.0,0.0
+TD-8,10044, ,[REF] Nota tecnica 2.4 Interfaz SAP,Task,To Do,,,0.0,0.0
+TD-7,10043, ,[REF] HU-Fee Liberación-01.05,Task,To Do,,,0.0,0.0
+TD-6,10042, ,[REF] HU-Fee Liberación-01.04 ,Task,To Do,,,0.0,0.0
+TD-5,10041, ,[REF]HU-Fee Liberación-01.06 ,Task,To Do,,,0.0,0.0
+TD-4,10040, ,bug prueba 2,Bug,CERRADO,TD Sprint 1,,0.0,2.0
+TD-3,10039, ,bug prueba,Bug,CERRADO,,,0.0,0.0
+TD-2,10038, ,Ejemplo,Story,Done,TD Sprint 1,5.0,0.0,3.0
+TD-1,10037, ,Hola,Story,Done,TD Sprint 1,13.0,0.0,5.0

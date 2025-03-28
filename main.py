@@ -124,37 +124,37 @@ def createMainpage(df_sprint, projectKey, boardName, sprint, listSprintsStates):
     st.write(allIssueTypesAllSprints)
 
     ############################################################
-    st.info("Información de SubTasks de Historias/Tareas asignadas a los Sprints")
-    df_tasks, columnsFormat_tasks = DataFrame.createInfoTasksByIssueIntoSprints(
-        dataRows)
-    csv_to_download = df_tasks.to_csv().encode('utf-8')
-    st.download_button(
-        label="Download data as CSV",
-        data=csv_to_download,
-        file_name='WorklogsAllIssues.csv',
-        mime='text/csv',
-    )
-    st.write(df_tasks.style.format(columnsFormat_tasks))
+    # st.info("Información de SubTasks de Historias/Tareas asignadas a los Sprints")
+    # df_tasks, columnsFormat_tasks = DataFrame.createInfoTasksByIssueIntoSprints(
+    #     dataRows)
+    # csv_to_download = df_tasks.to_csv().encode('utf-8')
+    # st.download_button(
+    #     label="Download data as CSV",
+    #     data=csv_to_download,
+    #     file_name='WorklogsAllIssues.csv',
+    #     mime='text/csv',
+    # )
+    # st.write(df_tasks.style.format(columnsFormat_tasks))
 
-    st.info("Información de Historias/Tareas vs. Sprints")
-    col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        color1 = st.color_picker('Historias', '#76D7C4', key=1)
-    with col2:
-        color2 = st.color_picker('Subtasks de Historias', '#A1F9C3', key=2)
-    with col3:
-        color3 = st.color_picker('Tareas', '#7AA6EA', key=3)
-    with col4:
-        color4 = st.color_picker('Subtasks de Tareas', '#85C1E9', key=4)
+    # st.info("Información de Historias/Tareas vs. Sprints")
+    # col1, col2, col3, col4 = st.columns(4)
+    # with col1:
+    #     color1 = st.color_picker('Historias', '#76D7C4', key=1)
+    # with col2:
+    #     color2 = st.color_picker('Subtasks de Historias', '#A1F9C3', key=2)
+    # with col3:
+    #     color3 = st.color_picker('Tareas', '#7AA6EA', key=3)
+    # with col4:
+    #     color4 = st.color_picker('Subtasks de Tareas', '#85C1E9', key=4)
 
-    df_stories, columnsFormat_stories = DataFrame.createInfoBySprint(
-        dataRows, dataSprints)
-    st.write(df_stories.format(columnsFormat_stories))
+    # df_stories, columnsFormat_stories = DataFrame.createInfoBySprint(
+    #     dataRows, dataSprints)
+    # st.write(df_stories.format(columnsFormat_stories))
 
-    st.info("Información por persona")
-    df_PerUser, columnsFormat_perUser = DataFrame.createDfTimePerUser(
-        listSprintsStates, dataRows)
-    st.write(df_PerUser.style.format(columnsFormat_perUser))
+    # st.info("Información por persona")
+    # df_PerUser, columnsFormat_perUser = DataFrame.createDfTimePerUser(
+    #     listSprintsStates, dataRows)
+    # st.write(df_PerUser.style.format(columnsFormat_perUser))
 
 
 ###########################################################################################################
